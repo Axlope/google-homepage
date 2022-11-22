@@ -4,5 +4,5 @@ Bu repository'de Kodluyoruz.org ve Patika.dev işbirliğiyle, "Başlangıç Sevi
 
 ![alt text](https://github.com/Axlope/google_homepage/blob/master/google-homepage.png)
 
-<p><a href="https://kodluyoruz.org/">kodluyoruz.org</a><p>
-<p><a href="https://www.patika.dev/">patika.dev</a><p>
+<p><a href="https://axlope.github.io/google-homepage/">Axlope - Google Homepage</a><p>
+
